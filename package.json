@@ -1,0 +1,19 @@
+{
+  "name": "node-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacobHsu/node-npm.git"
+  },
+  "author": "Jacob Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHsu/node-npm/issues"
+  },
+  "homepage": "https://github.com/JacobHsu/node-npm"
+}
