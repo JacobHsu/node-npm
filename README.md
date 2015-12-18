@@ -1,6 +1,3 @@
-# node-npm
-#Node.js
-
 Express
 ---
 
@@ -13,6 +10,10 @@ Express
   [![Linux Build][travis-image]][travis-url]
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Test Coverage][coveralls-image]][coveralls-url]
+
+
+[![NPM](https://nodei.co/npm/express.png?downloads=true&stars=true)](https://www.npmjs.com/package/express)
+`npm install express --save`  
 
 ```js
 var express = require('express')
@@ -31,4 +32,10 @@ app.listen(3000)
 $ npm install --save express  
 ```
 **To use:**
-Visit `http://localhost:3000`
+Visit `http://localhost:3000`  
+
+
+Nodemailer
+---
+[![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&stars=true)](https://www.npmjs.com/package/nodemailer)  
+`npm install nodemailer --save`  

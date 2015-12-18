@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JacobHsu/node-npm",
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "nodemailer": "^1.10.0"
   }
 }
