@@ -39,3 +39,16 @@ Nodemailer
 ---
 [![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&stars=true)](https://www.npmjs.com/package/nodemailer)  
 `npm install nodemailer --save`  
+
+
+cron
+---
+[![NPM](https://nodei.co/npm/cron.png?downloads=true&stars=true)](https://www.npmjs.com/package/cron)  
+`npm install cron --save`  
+
+
+later
+---
+[![NPM](https://nodei.co/npm/later.png?downloads=true&stars=true)](https://www.npmjs.com/package/later)  
+`npm install later --save`  
+
