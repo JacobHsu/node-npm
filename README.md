@@ -52,3 +52,8 @@ later
 [![NPM](https://nodei.co/npm/later.png?downloads=true&stars=true)](https://www.npmjs.com/package/later)  
 `npm install later --save`  
 
+progress
+---
+[![NPM](https://nodei.co/npm/progress.png?downloads=true&stars=true)](https://www.npmjs.com/package/progress)  
+`npm install progress --save`  
+
