@@ -35,6 +35,12 @@ $ npm install --save express
 Visit `http://localhost:3000`  
 
 
+request
+---
+[![NPM](https://nodei.co/npm/request.png?downloads=true&stars=true)](https://www.npmjs.com/package/request)  
+`npm install request --save`  
+
+
 Nodemailer
 ---
 [![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&stars=true)](https://www.npmjs.com/package/nodemailer)  
