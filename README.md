@@ -69,3 +69,8 @@ progress
 [![NPM](https://nodei.co/npm/progress.png?downloads=true&stars=true)](https://www.npmjs.com/package/progress)  
 `npm install progress --save`  
 
+mongodb
+---
+[![NPM](https://nodei.co/npm/mongodb.png?downloads=true&stars=true)](https://www.npmjs.com/package/mongodb)  
+`npm install mongodb --save`  
+
