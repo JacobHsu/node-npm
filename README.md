@@ -74,3 +74,8 @@ mongodb
 [![NPM](https://nodei.co/npm/mongodb.png?downloads=true&stars=true)](https://www.npmjs.com/package/mongodb)  
 `npm install mongodb --save`  
 
+sprintf
+---
+[![NPM](https://nodei.co/npm/sprintf.png?downloads=true&stars=true)](https://www.npmjs.com/package/sprintf)  
+`npm install sprintf --save`  
+
