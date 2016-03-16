@@ -79,3 +79,6 @@ sprintf
 [![NPM](https://nodei.co/npm/sprintf.png?downloads=true&stars=true)](https://www.npmjs.com/package/sprintf)  
 `npm install sprintf --save`  
 
+
+[![NPM](https://nodei.co/npm/passport.png?downloads=true&stars=true)](https://www.npmjs.com/package/passport)  
+
