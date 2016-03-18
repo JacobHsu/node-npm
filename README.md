@@ -82,3 +82,9 @@ sprintf
 
 [![NPM](https://nodei.co/npm/passport.png?downloads=true&stars=true)](https://www.npmjs.com/package/passport)  
 
+Simple, unobtrusive authentication for Node.js.  
+
+
+[![NPM](https://nodei.co/npm/jsdom.png?downloads=true&stars=true)](https://www.npmjs.com/package/jsdom)  
+
+A JavaScript implementation of the DOM and HTML standards.      
