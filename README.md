@@ -78,6 +78,10 @@ mongodb
 
 Simple, unobtrusive authentication for Node.js.  
 
+[![NPM](https://nodei.co/npm/eventproxy.png?downloads=true&stars=true)](https://www.npmjs.com/package/eventproxy)  
+
+An implementation of task/event based asynchronous pattern.  
+
 [![NPM](https://nodei.co/npm/shelljs.png?downloads=true&stars=true)](https://www.npmjs.com/package/shelljs)  
 
 Portable Unix shell commands for Node.js  
