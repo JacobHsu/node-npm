@@ -87,4 +87,8 @@ Simple, unobtrusive authentication for Node.js.
 
 [![NPM](https://nodei.co/npm/jsdom.png?downloads=true&stars=true)](https://www.npmjs.com/package/jsdom)  
 
-A JavaScript implementation of the DOM and HTML standards.      
+A JavaScript implementation of the DOM and HTML standards.    
+
+[![NPM](https://nodei.co/npm/cli-table.png?downloads=true&stars=true)](https://www.npmjs.com/package/cli-table)  
+
+Pretty unicode tables for the CLI.      
