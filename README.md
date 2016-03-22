@@ -89,6 +89,10 @@ Simple, unobtrusive authentication for Node.js.
 
 A JavaScript implementation of the DOM and HTML standards.    
 
+[![NPM](https://nodei.co/npm/colors.png?downloads=true&stars=true)](https://www.npmjs.com/package/colors)  
+
+get colors in your node.js console  
+
 [![NPM](https://nodei.co/npm/cli-table.png?downloads=true&stars=true)](https://www.npmjs.com/package/cli-table)  
 
 Pretty unicode tables for the CLI.      
