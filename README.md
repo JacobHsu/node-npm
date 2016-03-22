@@ -74,16 +74,13 @@ mongodb
 [![NPM](https://nodei.co/npm/mongodb.png?downloads=true&stars=true)](https://www.npmjs.com/package/mongodb)  
 `npm install mongodb --save`  
 
-sprintf
----
-[![NPM](https://nodei.co/npm/sprintf.png?downloads=true&stars=true)](https://www.npmjs.com/package/sprintf)  
-`npm install sprintf --save`  
-
-
 [![NPM](https://nodei.co/npm/passport.png?downloads=true&stars=true)](https://www.npmjs.com/package/passport)  
 
 Simple, unobtrusive authentication for Node.js.  
 
+[![NPM](https://nodei.co/npm/shelljs.png?downloads=true&stars=true)](https://www.npmjs.com/package/shelljs)  
+
+Portable Unix shell commands for Node.js  
 
 [![NPM](https://nodei.co/npm/jsdom.png?downloads=true&stars=true)](https://www.npmjs.com/package/jsdom)  
 
@@ -95,4 +92,6 @@ get colors in your node.js console
 
 [![NPM](https://nodei.co/npm/cli-table.png?downloads=true&stars=true)](https://www.npmjs.com/package/cli-table)  
 
-Pretty unicode tables for the CLI.      
+Pretty unicode tables for the CLI.   
+
+[![NPM](https://nodei.co/npm/sprintf.png?downloads=true&stars=true)](https://www.npmjs.com/package/sprintf)     
