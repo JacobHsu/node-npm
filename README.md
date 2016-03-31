@@ -35,44 +35,24 @@ $ npm install --save express
 Visit `http://localhost:3000`  
 
 
-jade
----
 [![NPM](https://nodei.co/npm/jade.png?downloads=true&stars=true)](https://www.npmjs.com/package/jade)  
-`npm install jade --save`  
 
-
-request
----
 [![NPM](https://nodei.co/npm/request.png?downloads=true&stars=true)](https://www.npmjs.com/package/request)  
-`npm install request --save`  
 
-
-Nodemailer
----
 [![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&stars=true)](https://www.npmjs.com/package/nodemailer)  
-`npm install nodemailer --save`  
 
 
-cron
----
 [![NPM](https://nodei.co/npm/cron.png?downloads=true&stars=true)](https://www.npmjs.com/package/cron)  
-`npm install cron --save`  
 
 
-later
----
 [![NPM](https://nodei.co/npm/later.png?downloads=true&stars=true)](https://www.npmjs.com/package/later)  
-`npm install later --save`  
 
-progress
----
+
 [![NPM](https://nodei.co/npm/progress.png?downloads=true&stars=true)](https://www.npmjs.com/package/progress)  
-`npm install progress --save`  
 
-mongodb
----
+
 [![NPM](https://nodei.co/npm/mongodb.png?downloads=true&stars=true)](https://www.npmjs.com/package/mongodb)  
-`npm install mongodb --save`  
+
 
 [![NPM](https://nodei.co/npm/passport.png?downloads=true&stars=true)](https://www.npmjs.com/package/passport)  
 

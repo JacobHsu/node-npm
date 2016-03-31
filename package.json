@@ -4,7 +4,7 @@
   "description": "Express\r ---",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
     "jade": "^1.11.0",
     "jsdom": "^8.1.0",
     "later": "^1.2.0",
+    "mocha": "^2.4.5",
     "moment-timezone": "^0.5.2",
     "mongodb": "^2.1.4",
     "morgan": "^1.6.1",
@@ -40,5 +41,8 @@
     "sprintf": "^0.1.5",
     "superagent": "^1.8.2",
     "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
   }
 }

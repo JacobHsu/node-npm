@@ -8,6 +8,23 @@ Back in the terminal:
 $ mocha test
 ```
 
+Setting
+---
+http://unitjs.com/guide/mocha.html  
+
+`$ npm install mocha --save-dev`
+
+To run tests with the command `npm test`.  
+To do this, add in your `package.json` file:
+```
+"main": "index.js",
+"scripts": {
+  "test": "mocha test"
+},
+```
+
+`$ npm test`
+
 References
 ---
 * http://stackoverflow.com/questions/28400459/referenceerror-describe-is-not-defined-nodejs
