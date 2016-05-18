@@ -78,4 +78,9 @@ get colors in your node.js console
 
 Pretty unicode tables for the CLI.   
 
-[![NPM](https://nodei.co/npm/sprintf.png?downloads=true&stars=true)](https://www.npmjs.com/package/sprintf)     
+[![NPM](https://nodei.co/npm/sprintf.png?downloads=true&stars=true)](https://www.npmjs.com/package/sprintf)  
+
+
+files
+---
+[![NPM](https://nodei.co/npm/ya-csv.png?downloads=true&stars=true)](https://www.npmjs.com/package/ya-csv)  

@@ -42,7 +42,8 @@
     "shelljs": "^0.6.0",
     "sprintf": "^0.1.5",
     "superagent": "^1.8.2",
-    "url": "^0.11.0"
+    "url": "^0.11.0",
+    "ya-csv": "^0.9.4"
   },
   "devDependencies": {
     "mocha": "^2.4.5"
