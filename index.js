@@ -1,2 +1,4 @@
-var h=require('./hello');
-h.hello('JacobHsu');
+function hello(name){
+  console.log("Hello "+ name);
+}
+exports.hello=hello;
