@@ -1,2 +1,7 @@
 # node-npm
-#Node.js
+
+`npm init` package.json
+
+# Usage
+
+`$ node index`  
