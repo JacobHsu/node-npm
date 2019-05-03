@@ -7,3 +7,16 @@
 
 [Hello world](https://expressjs.com/zh-tw/starter/hello-world.html)  
 `node app`  
+
+Express 應用程式的程序管理程式
+
+當您在正式作業中執行 Express 應用程式時，使用**程序管理程式**有助您達成下列作業 
+> 在應用程式當機時，自動重新啟動它。 洞察執行時期效能和資源的耗用情況。   
+
+程序管理程式有點像應用程式伺服器；它是一個應用程式的「儲存器」，有助於部署、提供高可用性，並可讓您在執行時期管理應用程式。
+
+對 Express 和其他 Node.js 應用程式來說，最普及的程序管理程式如下：
+
+StrongLoop Process Manager
+[PM2](https://expressjs.com/zh-tw/advanced/pm.html#pm2)  
+Forever
