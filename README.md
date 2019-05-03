@@ -6,7 +6,11 @@
 
 `$ node test`  
 
+[Uninstalling local packages](https://docs.npmjs.com/uninstalling-packages-and-dependencies)    
+`npm uninstall <package_name>`  
 
+[Uninstalling global packages](https://docs.npmjs.com/uninstalling-packages-and-dependencies)  
+`npm uninstall -g <package_name>`    
 
 
 ### 製作npm包  
@@ -30,3 +34,15 @@ a.hello('world')
 
 ### 更新npm包
 更新npm包也是使用npm publish命令發佈，不過必須更改npm包的版本號，即package.json的version字段，否則會報錯
+
+## Note 
+
+找 windows `node.exe`  
+`> where npm`  
+C:\Program Files\nodejs\npm  
+
+[windows命令行窗口中執行npm命令就閃退](https://blog.csdn.net/roongyan92/article/details/80106399)  
+node.exe/右鍵/相容性/變更所有使用者設定/設定/以系統管理員的身分執行此程式　
+
+where is cmd ?    
+C:\WINDOWS\system32\cmd.exe  
