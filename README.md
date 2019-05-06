@@ -46,3 +46,11 @@ node.exe/右鍵/相容性/變更所有使用者設定/設定/以系統管理員�
 
 where is cmd ?    
 C:\WINDOWS\system32\cmd.exe  
+
+### References
+
+[Node.js Domain 模塊](http://www.runoob.com/nodejs/nodejs-domain-module.html)
+[nodejs裡的cb是什麼意思?](https://zhidao.baidu.com/question/1737085574259806347.html) > > `cb`的在js中是`call-back` 也就是回調函數的縮寫。  
+[async.auto](https://caolan.github.io/async/docs.html#auto)  
+> 用來處理有依賴關係的多個任務   
+用 `waterfall` 跟 `parallel` 做出一樣的功能 用 `auto` 可以讓相互關係更清楚

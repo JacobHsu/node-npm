@@ -58,6 +58,9 @@ Q [Error: connect EPERM //./pipe/rpc.sock](https://github.com/Unitech/pm2/issues
 
 出現：connect EPERM //./pipe/rpc.sock，解決方案：[殺死進程，刪除pm2.log 重啟pm2](https://www.cnblogs.com/loveclumsybaby/p/10612749.html)  
 
+Q [windows不支持NODE_ENV=development](https://segmentfault.com/a/1190000005811347)  
+[cross-env](https://www.npmjs.com/package/cross-env)  
+
 # express
 
 一般cmd會閃退 利用express建server做常駐服務  

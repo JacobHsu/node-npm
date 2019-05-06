@@ -1,6 +1,6 @@
 {
     "apps" : [{
-      "name"        : "app",
+      "name"        : "app-" + process.env.NODE_ENV || "dev",
       "script"      : "./app.js",
       "watch"       : true,
       "env": {
