@@ -20,3 +20,19 @@ Express 應用程式的程序管理程式
 StrongLoop Process Manager
 [PM2](https://expressjs.com/zh-tw/advanced/pm.html#pm2)  
 Forever
+
+
+# Note
+
+[http.createServer(app).listen()與app.listen()的區別](https://blog.csdn.net/weixin_38578293/article/details/79032492) 
+```js
+app.listen = function (port) {
+  http.createServer(this).listen(port);
+};
+```
+[express裡http.createServer和app.listen有什麼區別？](https://cnodejs.org/topic/5396cd60c3ee0b5820f00e2a)    
+> app只能使用app使用express的屬性和方法；  
+http是原生的，不但可以使用express的屬性和方法，而且還可以使用Http的屬性和方法。  
+
+[Node.js HTTP Server Object](https://www.w3schools.com/nodejs/obj_http_server.asp)  
+listen() listening
