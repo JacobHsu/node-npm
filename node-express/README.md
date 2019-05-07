@@ -36,3 +36,10 @@ http是原生的，不但可以使用express的屬性和方法，而且還可以
 
 [Node.js HTTP Server Object](https://www.w3schools.com/nodejs/obj_http_server.asp)  
 listen() listening
+
+
+[Node.js http.createServer() Method](https://www.w3schools.com/nodejs/met_http_createserver.asp)
+
+### Domain 
+[域（Domain）](https://wiki.jikexueyuan.com/project/nodejs-guide/domain.html)  
+[利用domain实现request生命周期的全局变量](https://www.cnblogs.com/kenkofox/p/5430988.html)
