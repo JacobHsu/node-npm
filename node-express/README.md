@@ -21,6 +21,13 @@ StrongLoop Process Manager
 [PM2](https://expressjs.com/zh-tw/advanced/pm.html#pm2)  
 Forever
 
+# expressjs
+
+[using-middleware](https://expressjs.com/zh-tw/guide/using-middleware.html) 
+沒有裝載路徑的中介軟體函數。每當應用程式收到要求時，就會執行此函數。
+
+[撰寫中介軟體以用於 Express 應用程式中](https://expressjs.com/zh-tw/guide/writing-middleware.html)  
+如果現行中介軟體函數不會結束要求/回應循環，它必須呼叫 `next()`，以便將控制權傳遞給下一個中介軟體函數。否則，要求將會停擺。
 
 # Note
 
