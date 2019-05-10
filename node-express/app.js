@@ -18,7 +18,10 @@ server.listen(9999);
 server.on('listening',onListening);  
 
 function onListening() {
-  console.log( server.address(), server.listening )
+  console.log( server.address(), server.listening );
+  const hostname = 'localhost';
+  const port = server.address().port;
+  console.log(`Server running at http://${hostname}:${port}`);
 }
 
 // 沒有裝載路徑的中介軟體函數。每當應用程式收到要求時，就會執行此函數

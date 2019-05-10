@@ -47,6 +47,9 @@ node.exe/右鍵/相容性/變更所有使用者設定/設定/以系統管理員�
 where is cmd ?    
 C:\WINDOWS\system32\cmd.exe  
 
+ [![NPM](https://nodei.co/npm/nodemon.png?downloads=true&stars=true)](https://nodei.co/npm/nodemon/)  
+ > Monitor for any changes in your node.js application and automatically restart the server - perfect for development 
+
 
  [![NPM](https://nodei.co/npm/serve-favicon.png?downloads=true&stars=true)](https://nodei.co/npm/serve-favicon/)  
 

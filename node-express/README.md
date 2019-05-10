@@ -29,6 +29,13 @@ Forever
 [撰寫中介軟體以用於 Express 應用程式中](https://expressjs.com/zh-tw/guide/writing-middleware.html)  
 如果現行中介軟體函數不會結束要求/回應循環，它必須呼叫 `next()`，以便將控制權傳遞給下一個中介軟體函數。否則，要求將會停擺。
 
+# npm 
+
+ [![NPM](https://nodei.co/npm/nodemon.png?downloads=true&stars=true)](https://nodei.co/npm/nodemon/)  
+
+ `npm i -g nodemon`  
+ [*nodemon : 无法将“nodemon”项识别为 cmdlet、函数](https://juejin.im/post/5c1f01545188254a4313d22e)  
+
 # Note
 
 [http.createServer(app).listen()與app.listen()的區別](https://blog.csdn.net/weixin_38578293/article/details/79032492) 
@@ -46,6 +53,7 @@ listen() listening
 
 
 [Node.js http.createServer() Method](https://www.w3schools.com/nodejs/met_http_createserver.asp)
+[Node.js HTTPS Module](https://www.w3schools.com/nodejs/ref_https.asp) 需要https環境  
 
 ### Domain 
 [域（Domain）](https://wiki.jikexueyuan.com/project/nodejs-guide/domain.html)  
