@@ -6,7 +6,11 @@
 
 `$ node test`  
 
+# docs
 
+[npm-init](https://docs.npmjs.com/cli/init)  
+Generate it without having it ask any questions:
+`$ npm init -y`  
 
 
 ### 製作npm包  
