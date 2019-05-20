@@ -57,6 +57,10 @@ C:\WINDOWS\system32\cmd.exe
 Terminal string styling   
 
 
+[![NPM](https://nodei.co/npm/moment.png?downloads=true&stars=true)](https://nodei.co/npm/moment/) 
+http://momentjs.com/ 
+> `moment().format('YYYY/MM/DD, h:mm:ss a'); // 2019/05/20, 11:20:52 am`    
+
 ### References
 
 [Node.js Domain 模塊](http://www.runoob.com/nodejs/nodejs-domain-module.html)
