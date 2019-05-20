@@ -6,11 +6,18 @@
 
 `$ node test`  
 
+<<<<<<< HEAD
+# docs
+
+[npm-init](https://docs.npmjs.com/cli/init)  
+Generate it without having it ask any questions:
+`$ npm init -y`  
 [Uninstalling local packages](https://docs.npmjs.com/uninstalling-packages-and-dependencies)    
 `npm uninstall <package_name>`  
 
 [Uninstalling global packages](https://docs.npmjs.com/uninstalling-packages-and-dependencies)  
 `npm uninstall -g <package_name>`    
+
 
 
 ### 製作npm包  
@@ -56,6 +63,10 @@ C:\WINDOWS\system32\cmd.exe
 [![NPM](https://nodei.co/npm/chalk.png?downloads=true&stars=true)](https://nodei.co/npm/chalk/)    
 Terminal string styling   
 
+[![NPM](https://nodei.co/npm/pako.png?downloads=true&stars=true)](https://nodei.co/npm/pako/)    
+zlib port to javascript, very fast!  
+[使用pako.js解壓服務端傳來的gzip文件（火幣api）](https://blog.sakuradon.com/index.php/archives/124/)  
+websocket中傳輸的數據均已經gzip壓縮過，需要在客戶端解壓，使讀出來的文件返回成`BinaryString`，再使用`pako.inflate`解壓    
 
 [![NPM](https://nodei.co/npm/moment.png?downloads=true&stars=true)](https://nodei.co/npm/moment/) 
 http://momentjs.com/ 
