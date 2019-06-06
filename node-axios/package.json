@@ -1,0 +1,22 @@
+{
+  "name": "node-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env NODE_ENV=dev node ./bin/www.js",
+    "start": "npm run dev"
+  },
+  "keywords": [],
+  "author": "Jacob Hsu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  }
+}

@@ -1,6 +1,14 @@
 [PM2教程](https://pm2.io/doc/zh/runtime/guide/ecosystem-file/) 
 [Quick Start](http://pm2.keymetrics.io/docs/usage/quick-start/)  
 
+
+## Usage
+
+`$ node app`
+`$ npm start`
+visit http://localhost:3000
+> hello world
+
 ### 全局使用   
 
 `npm install pm2 -g` 
