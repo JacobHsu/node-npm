@@ -4,7 +4,12 @@
 
 # Usage
 
-`$ node test`  
+`$ node test` 
+
+# note
+`npm i` 就是 `npm install`  
+`npm install -d` 就是 `npm install --save-dev`  
+`npm insatll -s` 就是 `npm install --save`  
 
 <<<<<<< HEAD
 # docs
